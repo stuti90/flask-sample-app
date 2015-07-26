@@ -1,2 +1,2 @@
-# flask-sample-app
+# Flash Sample App
 Playing around with Flask
